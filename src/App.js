@@ -13,6 +13,7 @@ function App() {
         <p>
           Oi
         </p>
+        <h1>Pedro</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
