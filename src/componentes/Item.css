@@ -1,0 +1,18 @@
+.item {
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  background-color: #f7bee3;
+  border-radius: 15px;
+}
+
+.descricao {
+
+  margin: 0;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.check {
+  display: flex;
+}
